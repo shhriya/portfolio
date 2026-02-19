@@ -6,7 +6,7 @@ A professional, data-driven portfolio and resume site for a Data & AI Engineer. 
 
 ## Live Demo
 
-**[→ Live Demo](https://your-deployed-url.com)** *(Replace with your deployed link after publishing to Vercel, Netlify, GitHub Pages, etc.)*
+**[→ Live Demo](https://portfolio-9eyyn7nda-shhriyas-projects.vercel.app/)**
 
 ---
 
@@ -23,13 +23,15 @@ This single-page portfolio provides:
 - **Certifications** — Professional certifications with issuer and focus.
 - **Extracurriculars** — Leadership and activities.
 - **Contact** — Email, LinkedIn, GitHub.
-- **Resume** — Dedicated `/resume` route with a print-optimized, two-page layout (main resume + selected projects). “Download resume” opens the resume page; “Save as PDF / Print” uses the browser’s print dialog.
+- **Resume** — Dedicated `/resume` route with a print-optimized, two-page layout (main resume + projects). “Download resume” opens the resume page; “Save as PDF / Print” uses the browser’s print dialog.
 
 Content is fully driven by JSON files under `src/data/`, so you can update copy and structure without touching component code.
 
 ---
 
 ## Screenshots
+
+<img width="919" height="434" alt="image" src="https://github.com/user-attachments/assets/e70bf339-e8a7-431b-aa9d-c0866006d9de" />
 
 | Section   | Description                    |
 |----------|---------------------------------|
@@ -39,14 +41,7 @@ Content is fully driven by JSON files under `src/data/`, so you can update copy 
 
 Add your own screenshots to the `screenshots/` folder, then reference them below (or use the table above as a guide).
 
-<!-- Add your screenshot files to ./screenshots/ and uncomment the lines below -->
-<!-- 
-![Hero](./screenshots/hero.png)
-![Projects](./screenshots/projects.png)
-![Resume](./screenshots/resume.png)
--->
 
-*Place `hero.png`, `projects.png`, and `resume.png` in the `screenshots/` folder, then uncomment the image lines above.*
 
 ---
 
@@ -140,7 +135,7 @@ src/
 
 ```bash
 # Clone the repository (replace with your repo URL)
-git clone https://github.com/your-username/my-portfolio.git
+git clone https://github.com/shhriya/my-portfolio.git
 cd my-portfolio
 
 # Install dependencies
@@ -152,16 +147,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173). Use **http://localhost:5173/resume** for the resume page.
 
-### Build for production
-
-```bash
-npm run build
-npm run preview   # Optional: preview production build locally
-```
-
-Deploy the `dist/` folder to any static host (Vercel, Netlify, GitHub Pages). Ensure the server serves `index.html` for `/resume` (SPA fallback) so client-side routing works.
-
----
 
 ## Updating content
 
