@@ -1,0 +1,18 @@
+[
+  {
+    "id": "snowflake-associate",
+    "name": "Snowflake Snowpro Data Engineer Associate",
+    "issuer": "Snowflake",
+    "year": "July 2025 - July 2027",
+    "focus": "Certified in building scalable ELT pipelines and foundational cloud data warehousing on Snowflake."
+  },
+  {
+    "id": "snowflake-professional",
+    "name": "Snowflake Snowpro Core Data Engineer Professional",
+    "issuer": "Snowflake",
+    "year": "July 2025 - July 2027",
+    "focus": "Advanced Snowflake professional specializing in performance tuning, architecture design, and secure data governance."
+  }
+]
+
+

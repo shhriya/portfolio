@@ -1,0 +1,17 @@
+{
+  "sectionTitle": {
+    "eyebrow": "About",
+    "title": "A data & AI engineer building measurable intelligence",
+    "subtitle": "Combining cloud data engineering, LLM systems, and evaluation frameworks to create scalable, production-ready solutions."
+  },
+  "summary": "I'm an Associate Data Engineer working at the intersection of modern data platforms and applied AI. My experience spans building scalable ETL pipelines, designing warehouse-ready data models, developing RAG and NL2SQL systems, and creating structured evaluation frameworks to benchmark LLM performance in real-world environments.",
+  "points": [
+    "Experienced in architecting end-to-end systems — from ingestion and orchestration (Airflow, PySpark, Snowflake, BigQuery) to frontend visualization and deployment.",
+    "Build AI-powered applications including RAG platforms, NL2SQL assistants, and chatbot evaluation systems using structured metrics and confusion matrix analysis.",
+    "Strong focus on production thinking: modular architecture, CI/CD, role-based access control, performance optimization, and measurable model evaluation."
+  ],
+  "techHighlight": {
+    "label": "Currently focused on:",
+    "value": "cloud-native data engineering, distributed processing with Spark, and designing reliable RAG and LLM evaluation systems for enterprise use cases."
+  }
+}

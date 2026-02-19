@@ -1,0 +1,31 @@
+{
+  "initials": "SK",
+  "hero": {
+    "eyebrow": "Associate Data Engineer",
+    "name": "Shriya K",
+    "role": "Building intelligent data and AI systems.",
+    "tagline": "I design scalable data pipelines and AI-powered platforms — from cloud data engineering to RAG systems and LLM evaluation frameworks — turning raw data and conversations into reliable, measurable intelligence.",
+    "primaryCta": {
+      "label": "View projects",
+      "scrollTo": "projects"
+    },
+    "secondaryCta": {
+      "label": "Download resume",
+      "href": "#",
+      "ariaLabel": "Download resume (placeholder link)"
+    },
+    "status": {
+      "text": "Open to Data & AI Engineering roles"
+    },
+    "locationLine": "Based in India · Open to Hybrid / Remote",
+    "card": {
+      "caption": "Profile placeholder",
+      "focusedOnLabel": "Focused on building:",
+      "pills": [
+        "Cloud-native data pipelines",
+        "LLM & RAG systems",
+        "AI evaluation & benchmarking platforms"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "primary": [
+    "Python",
+    "SQL",
+    "Snowflake",
+    "Databricks",
+    "Apache Airflow",
+    "RAG",
+    "NL2SQL",
+    "Data Modeling",
+    "ETL & ELT Pipelines"
+  ],
+  "secondary": [
+    "Git & CI/CD",
+    "Jenkins",
+    "Docker",
+    "Azure / AWS (foundations)",
+    "Pandas",
+    "REST APIs",
+    "React (for internal tools)"
+  ]
+}
+

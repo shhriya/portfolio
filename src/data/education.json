@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bachelors",
+    "level": "Bachelor's Degree",
+    "field": "B.E Computer Science",
+    "institution": "Sri Shakthi Institute of Engineering and Technology",
+    "period": "2021 — 2025",
+    "details": [
+      "CGPA - 8.27"
+    ]
+  },
+  {
+    "id": "schooling",
+    "level": "Higher Secondary / Schooling",
+    "field": "Maths-Computer",
+    "institution": "St Joseph's Convent Anglo Indian Higher Secondary School Coonoor",
+    "period": "2009 — 2021",
+    "details": [
+      "12th - 92%",
+      "10th - 91%"
+    ]
+  }
+]
+

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "tech-debt-qna-api",
+    "title": "Tech Debt QnA API",
+    "type":"POC",
+    "description": "Developed a Retrieval-Augmented Generation (RAG) FastAPI service that answers technical debt questions from a PDF dataset using Gemini 1.5, while also exposing project-level metrics such as code smells, refactorings, and faults for Apache projects.",
+    "techStack": [
+      "LangChain",
+      "Chroma (Vector Database)",
+      "pdfplumber",
+      "Google Gemini 1.5",
+      "Python",
+      "FastAPI",
+      "Docker",
+      "REST API"
+    ],
+    "githubUrl": "https://github.com/shhriya/rag_tech_debt",
+    "liveUrl": ""
+  },
+  {
+    "id": "nl2sql-spotify-assistant",
+    "title": "NL2SQL Spotify Dataset Assistant",
+    "type":"POC",
+    "description": "Built an interactive NL2SQL chatbot that converts natural language queries into SQL using Gemini 1.5 Pro, executes them on BigQuery, and returns contextual answers with short-term conversational memory.",
+    "techStack": [
+      "Python",
+      "Google Gemini 1.5 Pro",
+      "Google BigQuery",
+      "Prompt Engineering",
+      "Docker",
+      "REST-based LLM Integration",
+      "SQL"
+      
+    ],
+    "githubUrl": "https://github.com/shhriya/nl2sql",
+    "liveUrl": ""
+  },
+  {
+    "id": "stock-forecasting-data-pipeline",
+    "title": "Stock Forecasting Data Pipeline",
+    "type":"POC",
+    "description": "Engineered an end-to-end cloud data pipeline that automates daily stock ingestion, transformation, SARIMA-based forecasting, and visualization using Google Cloud, Airflow orchestration, and CI/CD deployment.",
+    "techStack": [
+      "Google Bigtable",
+      "Google BigQuery",
+      "Apache Airflow",
+      "Streamlit",
+      "SARIMA (Time Series Forecasting)",
+      "Docker",
+      "GitHub Actions (CI/CD)",
+      "Render",
+      "Kafka",
+      "Python"
+    ],
+    "githubUrl": "https://github.com/shhriya/stock_project",
+    "liveUrl": ""
+  },
+  {
+    "id": "presales-ppt-bot",
+    "title": "Presales AI Documentation Chatbot",
+    "type":"Project",
+    "description": "Architected an enterprise-grade RAG-based documentation chatbot enabling role-based access, semantic search, OCR processing, and RAGAS-driven model evaluation for presales and client-facing teams.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "React",
+      "LangChain",
+      "FAISS (Vector Database)",
+      "LLMs",
+      "RAGAS (Evaluation Framework)",
+      "Role-Based Access Control (RBAC)",
+      "OCR",
+      "Docker"
+    ],
+    "githubUrl": "",
+    "liveUrl": ""
+  },
+  {
+    "id": "log-analyzer-agent",
+    "title": "LLM Log Analyzer & Evaluation Platform",
+    "type":"POC",
+    "description": "Built an AI-powered chatbot evaluation system that analyzes bot-to-user conversations across 18 structured metrics using GPT-4o mini, computes confusion matrices for performance benchmarking, and visualizes results through a full-stack React dashboard.",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "React",
+      "LangChain",
+      "GPT-4o mini",
+      "LLM Evaluation Metrics",
+      "REST APIs",
+      "Confusion Matrix Analysis",
+      "Excel Export"
+    ],
+    "githubUrl": "",
+    "liveUrl": ""
+  },
+  {
+    "id": "ieee-form-bot",
+    "title": "IEEE Form Bot – AI-Powered Paper Auto-Fill & Editing System",
+    "type": "POC",
+    "description": "Developed an AI-driven IEEE-style paper form automation system that extracts key sections (title, authors, abstract, introduction) from uploaded PDFs using PyPDF2 and enables real-time natural language edits through a Gemini-powered LangGraph agent.",
+    "techStack": [
+      "LangChain",
+      "LangGraph",
+      "Python",
+      "Google Gemini 1.5 Pro",
+      "REST APIs",
+      "PDF Text Extraction",
+      "FastAPI",
+      "React",
+      "PyPDF2"
+    ],
+    "githubUrl": "",
+    "liveUrl": ""
+  }
+  
+  
+]
+

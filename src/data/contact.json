@@ -1,0 +1,23 @@
+{
+  "sectionTitle": {
+    "eyebrow": "Contact",
+    "title": "Let’s connect"
+  },
+  "items": [
+    {
+      "label": "Email",
+      "value": "shriyashree1104@gmail.com",
+      "href": "mailto:shriyashree1104@gmail.com"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "https://www.linkedin.com/in/shriya-k-a21a5124a/",
+      "href": "https://www.linkedin.com/in/shriya-k-a21a5124a/"
+    },
+    {
+      "label": "GitHub",
+      "value": "https://github.com/shhriya",
+      "href": "https://github.com/shhriya"
+    }
+  ]
+}

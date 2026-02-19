@@ -1,0 +1,29 @@
+[
+  {
+    "id": "associate-data-engineer",
+    "role": "Associate Data Engineer",
+    "company": "Relanto",
+    "period": "July 2025 — Present",
+    "location": "Bangalore, India (On-site)",
+    "bullets": [
+      "Designed and maintained scalable ETL/ELT pipelines using Snowflake, Databricks, PySpark, and Airflow for production data workflows.",
+      "Implemented incremental data loading strategies and Delta Lake optimizations to ensure high-performance, cost-efficient processing.",
+      "Optimized warehouse performance, query execution, and cluster configurations for reliability and scalability.",
+      "Led AI-focused POCs integrating RAG frameworks, RAGAS evaluation, OCR pipelines, and open-source LLM models into data-driven systems."
+    ]
+  },
+  {
+    "id": "data-engineering-intern",
+    "role": "Technical Trainee",
+    "company": "Relanto (Internship)",
+    "period": "Feb 2025 — June 2025",
+    "location": "Bangalore, India (On-site)",
+    "bullets": [
+      "Built end-to-end AI-driven data solutions integrating NL2SQL and RAG using LangChain, vector embeddings, and Snowflake.",
+      "Designed and developed REST APIs with FastAPI and connected them to React-based frontends for full-stack data applications.",
+      "Implemented Snowflake data engineering workflows, including data modeling (star schema, fact/dimension design) and warehouse optimization.",
+      "Contributed to backend architecture design, documentation, and CI/CD-enabled deployment for scalable, production-ready systems."
+    ]
+  }
+]
+
